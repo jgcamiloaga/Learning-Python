@@ -18,5 +18,5 @@ for i in range(2, 8, 3):
 #Los números irán aumentando de 3 en 3
 #Es decir, 2+3 = 5, 5+3 = 8
 #Se imprimirán los números 2 y 5, pero no el 8, ya que es igual al límite.
-#El último número será 5.
+#El último número será 5. 
 

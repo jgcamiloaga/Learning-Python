@@ -11,4 +11,3 @@ while(Result <= 23):
 
 #Bucle infinite
 #Cuando no pones un contador en este caso "Element_2 = Element_2 +1"
-

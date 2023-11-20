@@ -28,3 +28,4 @@ else:
 
 n = float(input("Ingrese los datos:"))
 print(n >= 100)
+ 

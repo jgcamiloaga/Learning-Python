@@ -10,4 +10,4 @@ RESULTADO = round(INP_FINAL,0)
 if(RESULTADO <=0):
     RESULTADO = 0
 
-print("El impuesto a pagar es",RESULTADO)
+print("El impuesto a pagar es",RESULTADO) 

@@ -23,4 +23,3 @@ while number != 0:
 # Imprimir resultados.
 print("Conteo de números impares:", odd_numbers)
 print("Conteo de números pares:", even_numbers)
-

@@ -16,4 +16,3 @@ while (number != secret_number):
     print("¡Ja, ja! ¡Estás atrapado en mi bucle!")
     number = int(input("Ingresa un número:"))
 print(number,"\n¡Bien hecho, muggle! Eres libre ahora.")
-
