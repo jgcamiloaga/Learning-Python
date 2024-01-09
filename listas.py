@@ -55,6 +55,7 @@ numbers_5 = [100, 51, 21, 32, 45, 564]
 
 #Un elemento con un índice igual a -1 es el último en la lista
 #An element with an index equal to -1 is the last in the list
+
 print(numbers_5[-1])
 print(numbers_5[-2])
 print(numbers_5[-3])
